@@ -12,17 +12,17 @@ public class Faal {
         public void setTitle(String title) {
             this.title = title;
         }
+    public String getPlainText() {
+        return plainText;
+    }
 
-        public String getPlainText() {
-            return plainText;
-        }
+    public void setPlainText(String plainText) {
+        this.plainText = plainText;
+    }
 
-        public void setPlainText(String plainText) {
-            this.plainText = plainText;
-        }
+    public Faal(String title, String plainText) {
+        this.title = title;
+        this.plainText = plainText;
+    }
 
-        public Faal(String title, String plainText) {
-            this.title = title;
-            this.plainText = plainText;
-        }
 }
