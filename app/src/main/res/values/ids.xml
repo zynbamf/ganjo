@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_search" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="txtbirthplace" type="id" />
+    <item name="txtdeath" type="id" />
+    <item name="txtbirth" type="id" />
+    <item name="txtname" type="id" />
+    <item name="sher" type="id" />
+</resources>
